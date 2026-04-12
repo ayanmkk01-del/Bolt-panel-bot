@@ -1,2 +1,2 @@
-selenium
-python-telegram-bot
+selenium==4.15.0
+python-telegram-bot==20.7
